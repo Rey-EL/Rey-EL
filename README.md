@@ -9,6 +9,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 ### 📚 My Projects
 *A selection of my hands-on technical projects and labs.*
 
+* **[Python File Janitor](https://github.com/Rey-EL/FileJanitor)**: A Python utility script to find and delete duplicate files (via SHA-256 hash) and empty folders, featuring progress bars and full logging.
 * **[CompTIA Security+ (SY0-701) Study Guide](https://github.com/Rey-EL/sec_plus_guide)**: A complete 25-objective study guide for the Sec+ exam, built using an AI-powered terminal workflow.
 * **[NIST DDoS Incident Report Analysis](https://github.com/Rey-EL/nist-ddos-incident-report)**: A hands-on lab analyzing a DDoS attack, structured around the NIST Cybersecurity Framework.
 * **[Google Cybersecurity SQL Filtering Lab](https://github.com/Rey-EL/google-sql-filtering-lab)**: A hands-on lab demonstrating SQL data filtering for cybersecurity investigations, including threat detection and access auditing.
@@ -36,7 +37,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 #### Certifications & Coursework
 * **Google Cybersecurity Certificate** (In Progress)
     * Tools of the Trade: Linux and SQL
-    * Play It Ssafe: Manage Security Risks
+    * Play It Safe: Manage Security Risks
     * Networking Foundations: Networking Basics
     * Introduction to Cyber Security Certificate
 * **CompTIA A+ Core 1 (220-1101) Cert Prep**
