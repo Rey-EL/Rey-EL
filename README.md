@@ -9,6 +9,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 ### 📚 My Projects
 *A selection of my hands-on technical projects and labs.*
 
+* **[Python PDF Merger](https://github.com/Rey-EL/pdf-merger)**: A Python GUI application (built with tkinter) to merge multiple PDF files. Includes a PyInstaller spec file to build a standalone .exe.
 * **[Python Media Tidy](https://github.com/Rey-EL/MediaTidy)**: A Python utility to organize a media library by reading EXIF data and renaming files. Includes a PyInstaller spec file to build a standalone .exe.
 * **[Python File Janitor](https://github.com/Rey-EL/FileJanitor)**: A Python utility script to find and delete duplicate files (via SHA-256 hash) and empty folders, featuring progress bars and full logging.
 * **[CompTIA Security+ (SY0-701) Study Guide](https://github.com/Rey-EL/sec_plus_guide)**: A complete 25-objective study guide for the Sec+ exam, built using an AI-powered terminal workflow.
