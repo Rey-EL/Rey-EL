@@ -10,6 +10,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 *A selection of my hands-on technical projects and labs.*
 
 * **[CompTIA Security+ (SY0-701) Study Guide](https://github.com/Rey-EL/sec_plus_guide)**: A complete 25-objective study guide for the Sec+ exam, built using an AI-powered terminal workflow.
+* **[Google Cybersecurity SQL Filtering Lab](https://github.com/Rey-EL/google-sql-filtering-lab)**: A hands-on lab demonstrating SQL data filtering for cybersecurity investigations, including threat detection and access auditing.
 * **[Google Cybersecurity Linux Permissions Lab](https://github.com/Rey-EL/linux-least-privilege-lab)**: A hands-on lab to audit and remediate file/directory permissions to enforce the principle of least privilege.
 
 ---
