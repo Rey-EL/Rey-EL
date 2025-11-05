@@ -9,6 +9,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 ### 📚 My Projects
 *A selection of my hands-on technical projects and labs.*
 
+* **[Python Media Tidy](https://github.com/Rey-EL/MediaTidy)**: A Python utility to organize a media library by reading EXIF data and renaming files. Includes a PyInstaller spec file to build a standalone .exe.
 * **[Python File Janitor](https://github.com/Rey-EL/FileJanitor)**: A Python utility script to find and delete duplicate files (via SHA-256 hash) and empty folders, featuring progress bars and full logging.
 * **[CompTIA Security+ (SY0-701) Study Guide](https://github.com/Rey-EL/sec_plus_guide)**: A complete 25-objective study guide for the Sec+ exam, built using an AI-powered terminal workflow.
 * **[NIST DDoS Incident Report Analysis](https://github.com/Rey-EL/nist-ddos-incident-report)**: A hands-on lab analyzing a DDoS attack, structured around the NIST Cybersecurity Framework.
@@ -41,7 +42,7 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
     * Networking Foundations: Networking Basics
     * Introduction to Cyber Security Certificate
 * **CompTIA A+ Core 1 (220-1101) Cert Prep**
-* **Federal Law Enforcement Training Centers (FLETC):** Criminal Investigator Training Program
+* **Federal Law Enforcement Training centers (FLETC):** Criminal Investigator Training Program
 
 ---
 
