@@ -49,5 +49,4 @@ I am drawn to cybersecurity because it allows me to combine my investigative wor
 ---
 
 ### 📫 How to Reach Me
-* **Email:** elvis360@gmail.com
 * **LinkedIn:** [www.linkedin.com/in/elvisreyeshernandez](https://www.linkedin.com/in/elvisreyeshernandez)
