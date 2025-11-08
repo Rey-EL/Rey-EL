@@ -47,4 +47,4 @@
 
   📫 How to Reach Me
 
-   * LinkedIn: www.linkedin.com/in/elvisreyeshernandez (www.linkedin.com/in/elvisreyeshernandez)
+   * LinkedIn: www.linkedin.com/in/elvisreyeshernandez
