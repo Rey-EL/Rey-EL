@@ -44,30 +44,30 @@ Certifications & Coursework
 
 ## 💼 Professional Experience
 
-* [cite_start]**Multidisciplinary Professional** (May 2015 - Present) [cite: 24]
-* [cite_start]**Inventory Supply Coordinator** - Columbia University in the City of New York (December 2014 - May 2015) [cite: 25, 26, 27]
-* [cite_start]**NYC Parks Enforcement Officer (Peace Officer)** - NYC Department of Parks & Recreation (September 2013 - December 2014) [cite: 39, 40]
-* **U.S. [cite_start]Marine (Sergeant)** - United States Marine Corps (September 2008 - September 2013) [cite: 45, 46, 47]
+* **Multidisciplinary Professional** (May 2015 - Present)
+* **Inventory Supply Coordinator** - Columbia University in the City of New York (December 2014 - May 2015)
+* **NYC Parks Enforcement Officer (Peace Officer)** - NYC Department of Parks & Recreation (September 2013 - December 2014)
+* **U.S. Marine (Sergeant)** - United States Marine Corps (September 2008 - September 2013)
 
 ---
 
 ## 🎓 Education
 
-* [cite_start]**Associate of Science, Computer and Information Science** (Concentration in Cyber and Information Security Technology) - ECPI University (May 2022 - October 2023) [cite: 63, 64]
-* [cite_start]**Master of Professional Studies, Homeland Security and Criminal Justice Leadership** - St. John's University (2014-2018) [cite: 65, 66]
-* [cite_start]**Bachelor of Science, Criminal Justice** - St. John's University (2013-2014) [cite: 67, 68]
-* [cite_start]**Organizational Leadership/Criminal Justice** - Penn State University (2012-2013) [cite: 69, 70]
-* [cite_start]**Criminal Justice Administration** - Strayer University (2012-2012) [cite: 71, 72]
+* **Associate of Science, Computer and Information Science** (Concentration in Cyber and Information Security Technology) - ECPI University (May 2022 - October 2023)
+* **Master of Professional Studies, Homeland Security and Criminal Justice Leadership** - St. John's University (2014-2018)
+* **Bachelor of Science, Criminal Justice** - St. John's University (2013-2014)
+* **Organizational Leadership/Criminal Justice** - Penn State University (2012-2013)
+* **Criminal Justice Administration** - Strayer University (2012-2012)
 
 ---
 
 ## 🌎 Languages
 
-* [cite_start]**English** (Native or Bilingual) [cite: 8]
-* [cite_start]**Spanish** (Native or Bilingual) [cite: 8]
+* **English** (Native or Bilingual)
+* **Spanish** (Native or Bilingual)
 
 ---
 
 ## 📫 How to Reach Me
 
- * [cite_start]**LinkedIn**: www.linkedin.com/in/elvisreyeshernandez [cite: 3, 4]
+ * **LinkedIn**: www.linkedin.com/in/elvisreyeshernandez
