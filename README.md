@@ -1,52 +1,52 @@
-# Hi, I'm Elvis 👋
-
-I am a career investigator and intelligence professional focused on protecting people, information, and institutional trust. My goal is to serve as a trusted ally in driving a culture where safety, security, and resilience are not just priorities, but shared responsibilities.
-
-I am drawn to cybersecurity because it allows me to combine my investigative work with technology to detect threats, strengthen defenses, and protect mission integrity. My strengths include investigative precision, solid analytical judgment, and practical cybersecurity skills in digital evidence, network operations, and risk analysis.
-
----
-
-### 📚 My Projects
-*A selection of my hands-on technical projects and labs.*
-
-* **[CompTIA Security+ (SY0-701) Study Guide](https://github.com/Rey-EL/sec_plus_guide)**: A complete 25-objective study guide for the Sec+ exam, built using an AI-powered terminal workflow.
-* **[Google Cybersecurity Linux Permissions Lab](https://github.com/Rey-EL/linux-least-privilege-lab)**: A hands-on lab to audit and remediate file/directory permissions to enforce the principle of least privilege.
-* **[Google Cybersecurity SQL Filtering Lab](https://github.com/Rey-EL/google-sql-filtering-lab)**: A hands-on lab demonstrating SQL data filtering for cybersecurity investigations, including threat detection and access auditing.
-* **[NIST DDoS Incident Report Analysis](https://github.com/Rey-EL/nist-ddos-incident-report)**: A hands-on lab analyzing a DDoS attack, structured around the NIST Cybersecurity Framework.
-* **[PowerPoint to PDF Converter](https://github.com/Rey-EL/ppt-to-pdf-converter)**: A Python GUI app (tkinter) that automates Microsoft PowerPoint (via COM) to convert all .ppt(x) files in a folder to PDF and merge them.
-* **[Python File Janitor](https://github.com/Rey-EL/FileJanitor)**: A Python utility script to find and delete duplicate files (via SHA-256 hash) and empty folders, featuring progress bars and full logging.
-* **[Python Media Tidy](https://github.com/Rey-EL/MediaTidy)**: A Python utility to organize a media library by reading EXIF data and renaming files. Includes a PyInstaller spec file to build a standalone .exe.
-* **[Python PDF Merger](https://github.com/Rey-EL/pdf-merger)**: A Python GUI application (tkinter) to merge multiple PDF files. Includes a PyInstaller spec file to build a standalone .exe.
-
----
-
-### 💻 Technical Skills & Certifications
-
-#### Core Skills
-* Command-Line Interface (CLI)
-* Database Management (SQL)
-* Incident Response
-* Network Security & Analysis
-* User Account Management
-
-#### Platforms / Tools
-* **Cloud:** Amazon Web Services (AWS) (exposure), Microsoft Azure (exposure)
-* **Containers:** Docker, Dockerfile
-* **Networking:** Routing, Switching, and Networking Fundamentals
-* **OS & Scripting:** Kali Linux, ParrotOS, PowerShell, Python, SQL, Ubuntu
-* **Security:** Burp Suite (working familiarity), Wireshark (working familiarity)
-* **Systems:** Active Directory, DHCP, DNS, Group Policy, Hyper-V, Windows Server 2019
-
-#### Certifications & Coursework
-* **CompTIA A+ Core 1 (220-1101) Cert Prep**
-* **Federal Law Enforcement Training centers (FLETC):** Criminal Investigator Training Program
-* **Google Cybersecurity Certificate** (In Progress)
-    * Introduction to Cyber Security Certificate
-    * Networking Foundations: Networking Basics
-    * Play It Safe: Manage Security Risks
-    * Tools of the Trade: Linux and SQL
-
----
-
-### 📫 How to Reach Me
-* **LinkedIn:** [www.linkedin.com/in/elvisreyeshernandez](https://www.linkedin.com/in/elvisreyeshernandez)
+    1 Hi, I'm Elvis 👋
+    2
+    3 As a career investigator and intelligence professional, I am dedicated to protecting people,
+      information, and institutional trust. My expertise lies in combining investigative precision with
+      robust cybersecurity skills to proactively identify threats, strengthen defenses, and ensure
+      mission integrity. This portfolio showcases my practical application of these principles.
+    4
+    5 ---
+    6
+    7 📚 **My Public Portfolio**
+    8
+    9 Explore my comprehensive collection of hands-on technical projects and labs, demonstrating
+      practical skills in cybersecurity, Python development, and Linux administration. This unified
+      portfolio is designed to provide a clear overview of my capabilities and project management
+      approach.
+   10
+   11 **[View My Public Portfolio Here](https://github.com/Rey-EL/Public_Portfolio)**
+   12
+   13 ---
+   14
+   15 💻 **Technical Skills & Certifications**
+   16
+   17 **Core Skills**
+   18 *   Command-Line Interface (CLI)
+   19 *   Database Management (SQL)
+   20 *   Incident Response
+   21 *   Network Security & Analysis
+   22 *   User Account Management
+   23
+   24 **Platforms / Tools**
+   25 *   **Cloud:** Amazon Web Services (AWS) (exposure), Microsoft Azure (exposure)
+   26 *   **Containers:** Docker, Dockerfile
+   27 *   **Networking:** Routing, Switching, and Networking Fundamentals
+   28 *   **OS & Scripting:** Kali Linux, ParrotOS, PowerShell, Python, SQL, Ubuntu
+   29 *   **Security:** Burp Suite (working familiarity), Wireshark (working familiarity)
+   30 *   **Systems:** Active Directory, DHCP, DNS, Group Policy, Hyper-V, Windows Server 2019
+   31
+   32 **Certifications & Coursework**
+   33 *   CompTIA A+ Core 1 (220-1101) Cert Prep
+   34 *   Federal Law Enforcement Training Centers (FLETC): Criminal Investigator Training Program
+   35 *   Google Cybersecurity Certificate (In Progress)
+   36 *   Introduction to Cyber Security Certificate
+   37 *   Networking Foundations: Networking Basics
+   38 *   Play It Safe: Manage Security Risks
+   39 *   Tools of the Trade: Linux and SQL
+   40
+   41 ---
+   42
+   43 📫 **How to Reach Me**
+   44
+   45 *   **LinkedIn:** [www.linkedin.com/in/elvisreyeshernandez](
+      www.linkedin.com/in/elvisreyeshernandez)
