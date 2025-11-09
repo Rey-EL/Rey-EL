@@ -56,8 +56,6 @@ Certifications & Coursework
 * **Associate of Science, Computer and Information Science** (Concentration in Cyber and Information Security Technology) - ECPI University (May 2022 - October 2023)
 * **Master of Professional Studies, Homeland Security and Criminal Justice Leadership** - St. John's University (2014-2018)
 * **Bachelor of Science, Criminal Justice** - St. John's University (2013-2014)
-* **Organizational Leadership/Criminal Justice** - Penn State University (2012-2013)
-* **Criminal Justice Administration** - Strayer University (2012-2012)
 
 ---
 
