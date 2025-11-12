@@ -15,7 +15,7 @@
   skills in cybersecurity, Python development, and Linux administration. This unified portfolio is
   designed to provide a clear overview of my capabilities and project management approach.
 
-  View My Public Portfolio Here (https://github.com/Rey-EL/Public_Portfolio)
+ [View My Public Portfolio Here](https://github.com/Rey-EL/Public_Portfolio)
 
   ---
 
