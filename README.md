@@ -1,4 +1,4 @@
-✦ Hi, I'm Elvis 👋
+Hi, I'm Elvis 👋
 
 As a career investigator and intelligence professional, I am dedicated to protecting people,
 information, and institutional trust. My expertise lies in combining investigative precision with
@@ -11,8 +11,7 @@ of these principles.
 
 📚 My Public Portfolio
 
-Explore my comprehensive collection of hands-on technical projects and labs, demonstrating
-practical
+Explore my comprehensive collection of hands-on technical projects and labs, demonstrating practical
 skills in cybersecurity, Python development, and Linux administration. This unified portfolio is
 designed to provide a clear overview of my capabilities and project management approach.
 
@@ -23,35 +22,35 @@ designed to provide a clear overview of my capabilities and project management a
 💻 Technical Skills & Certifications
 
 **Core Proficiencies**
-*   **Cybersecurity Analysis & Incident Response:** Applying NIST frameworks for vulnerability
+* **Cybersecurity Analysis & Incident Response:** Applying NIST frameworks for vulnerability
 assessment, risk analysis, and incident response.
-*   **Python for Automation & Security:** Developing scripts and GUI tools for file manipulation,
+* **Python for Automation & Security:** Developing scripts and GUI tools for file manipulation,
 hashing, metadata, and PDF processing.
-*   **AI & Machine Learning Operations:** Deploying and troubleshooting AI systems, including RAG
+* **AI & Machine Learning Operations:** Deploying and troubleshooting AI systems, including RAG
 architectures with Ollama and AnythingLLM.
-*   **System & Network Administration:** Managing Linux and Windows environments, network design,
+* **System & Network Administration:** Managing Linux and Windows environments, network design,
 and virtualized lab setups.
-*   **Security Tools & Frameworks:** Utilizing SQL for investigations, access control principles,
+* **Security Tools & Frameworks:** Utilizing SQL for investigations, access control principles,
 and understanding security frameworks (NIST, OWASP).
 
 **Platforms / Tools**
-*   **Cloud:** Amazon Web Services (AWS) (exposure), Microsoft Azure (exposure)
-*   **Containers:** Docker, Dockerfile
-*   **Networking:** Routing, Switching, Networking Fundamentals, Packet Tracer
-*   **OS & Scripting:** Kali Linux, ParrotOS, PowerShell, Python, SQL, Ubuntu, Windows Server
+* **Cloud:** Amazon Web Services (AWS) (exposure), Microsoft Azure (exposure)
+* **Containers:** Docker, Dockerfile
+* **Networking:** Routing, Switching, Networking Fundamentals, Packet Tracer
+* **OS & Scripting:** Kali Linux, ParrotOS, PowerShell, Python, SQL, Ubuntu, Windows Server
 2019, Active Directory, DHCP, DNS, Group Policy, Hyper-V
-*   **Security:** Burp Suite (working familiarity), Wireshark (working familiarity), Endpoint
+* **Security:** Burp Suite (working familiarity), Wireshark (working familiarity), Endpoint
 Security, Firewalls
-*   **AI/ML:** Ollama, AnythingLLM
+* **AI/ML:** Ollama, AnythingLLM
 
 **Certifications & Coursework**
-*   CompTIA A+ Core 1 (220-1101) Cert Prep
-*   Federal Law Enforcement Training Centers (FLETC): Criminal Investigator Training Program
-*   Google Cybersecurity Certificate (In Progress)
-*   Introduction to Cyber Security Certificate
-*   Networking Foundations: Networking Basics
-*   Play It Safe: Manage Risks
-*   Tools of the Trade: Linux and SQL
+* CompTIA A+ Core 1 (220-1101) Cert Prep
+* Federal Law Enforcement Training Centers (FLETC): Criminal Investigator Training Program
+* Google Cybersecurity Certificate (In Progress)
+* Introduction to Cyber Security Certificate
+* Networking Foundations: Networking Basics
+* Play It Safe: Manage Risks
+* Tools of the Trade: Linux and SQL
 
 ---
 
