@@ -8,7 +8,9 @@ Explore my comprehensive collection of hands-on technical projects and labs, dem
 
 [View My Public Portfolio Here](https://github.com/Rey-EL/public-portfolio)
 
-💻 Technical Skills & Certifications
+---
+
+## 💻 Technical Skills & Certifications
 
 ### Core Proficiencies
 
