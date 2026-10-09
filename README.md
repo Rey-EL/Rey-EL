@@ -1,67 +1,46 @@
-Hi, I'm Elvis 👋
+Hi, I'm Elvis.
 
-As a career investigator and intelligence professional, I am dedicated to protecting people, information, and institutional trust. My expertise lies in combining investigative precision with robust cybersecurity skills, applying a proactive, data-driven approach to identify threats, strengthen defenses, and ensure mission integrity. My bilingual fluency in English and Spanish serves as a strategic asset in this mission. This portfolio showcases my practical application of these principles.
+I am a career investigator and intelligence professional. I spent thirteen years in the Marine Corps, then moved into federal investigative work. Along the way I picked up cybersecurity, and now I work at the point where investigations and security overlap. I am bilingual in English and Spanish, which has been useful in both fields.
 
-📚 My Public Portfolio
+My projects are here: [public-portfolio](https://github.com/Rey-EL/public-portfolio)
 
-Explore my comprehensive collection of hands-on technical projects and labs, demonstrating practical skills in cybersecurity, Python development, and Linux administration. This unified portfolio is designed to provide a clear overview of my capabilities and project management approach.
+## What I work with
 
-[View My Public Portfolio Here](https://github.com/Rey-EL/public-portfolio)
+**Investigations and security:** Incident response, vulnerability assessment, risk analysis, and formal reporting. I work with the NIST Cybersecurity Framework and I know my way around the OWASP Top 10.
 
----
+**Python:** I build small GUI tools and automation scripts. File handling, hashing, metadata, PDF work with `pypdf`, PowerPoint automation with `win32com`.
 
-## 💻 Technical Skills & Certifications
+**Systems:** Linux (Ubuntu, Kali) and Windows administration. User management, permissions, hardening, `cron` automation, shell scripting. I have run virtualized lab environments for security testing.
 
-### Core Proficiencies
+**Data:** SQL for investigations. I have also set up local LLM systems with Ollama and AnythingLLM, including RAG builds.
 
-*   **Cybersecurity Analysis & Incident Response:** Applying NIST frameworks for vulnerability assessment, risk analysis, and incident response.
-*   **Python for Automation & Security:** Developing scripts and GUI tools for file manipulation, hashing, metadata, and PDF processing.
-*   **AI & Machine Learning Operations:** Deploying and troubleshooting AI systems, including RAG architectures with Ollama and AnythingLLM.
-*   **System & Network Administration:** Managing Linux and Windows environments, network design, and virtualized lab setups.
-*   **Security Tools & Frameworks:** Utilizing SQL for investigations, access control principles, and understanding security frameworks (NIST, OWASP).
+**Tools:** Wireshark, Burp Suite, Nmap, and the usual Linux toolkit. Docker for lab work.
 
-### Platforms / Tools
+## Certifications and training
 
-*   **Cloud:** Amazon Web Services (AWS) (exposure), Microsoft Azure (exposure)
-*   **Containers:** Docker, Dockerfile
-*   **Networking:** Routing, Switching, Networking Fundamentals, Packet Tracer
-*   **OS & Scripting:** Kali Linux, ParrotOS, PowerShell, Python, SQL, Ubuntu, Windows Server 2019, Active Directory, DHCP, DNS, Group Policy, Hyper-V
-*   **Security:** Burp Suite (working familiarity), Wireshark (working familiarity), Endpoint Security, Firewalls
-*   **AI/ML:** Ollama, AnythingLLM
+- FLETC Criminal Investigator Training Program
+- Google Cybersecurity Certificate
+- CompTIA Security+ (SY0-701) — in progress, study guide in this profile
+- CompTIA A+ Core 1 (220-1101) prep
 
-### Certifications & Coursework
+## Background
 
-*   CompTIA A+ Core 1 (220-1101) Cert Prep
-*   Federal Law Enforcement Training Centers (FLETC): Criminal Investigator Training Program
-*   Google Cybersecurity Certificate (In Progress)
-*   Introduction to Cyber Security Certificate
-*   Networking Foundations: Networking Basics
-*   Play It Safe: Manage Risks
-*   Tools of the Trade: Linux and SQL
+- **U.S. Marine Corps, Sergeant** (2008 - 2013). Two deployments to Afghanistan.
+- **NYC Parks Enforcement, Peace Officer** (2013 - 2014)
+- **Inventory Supply Coordinator, Columbia University** (2014 - 2015)
+- **Federal investigative work** (2015 - present)
 
----
+## Education
 
-## 💼 Professional Experience
-*   **Multidisciplinary Professional** (May 2015 - Present)
-*   **Inventory Supply Coordinator** - Columbia University in the City of New York (December 2014 - May 2015)
-*   **NYC Parks Enforcement Officer (Peace Officer)** - NYC Department of Parks & Recreation (September 2013 - December 2014)
-*   **U.S. Marine (Sergeant)** - United States Marine Corps (September 2008 - September 2013)
+- **M.P.S., Homeland Security and Criminal Justice Leadership** — St. John's University
+- **B.S., Criminal Justice** — St. John's University
+- **A.S., Computer and Information Science (Cyber Security Technology)** — ECPI University
 
----
+## Languages
 
-## 🎓 Education
-*   **Associate of Science, Computer and Information Science** (Concentration in Cyber and Information Security Technology) - ECPI University (May 2022 - October 2023)
-*   **Master of Professional Studies, Homeland Security and Criminal Justice Leadership** - St. John's University (2014-2018)
-*   **Bachelor of Science, Criminal Justice** - St. John's University (2013-2014)
+English and Spanish, both native.
 
----
+## Contact
 
-## 🌎 Languages
-*   English (Native or Bilingual)
-*   Spanish (Native or Bilingual)
-
----
-
-## 📫 How to Reach Me
-*   **LinkedIn:** [www.linkedin.com/in/elvisreyeshernandez](www.linkedin.com/in/elvisreyeshernandez)
-*   **Email:** [elvis360@gmail.com](mailto:elvis360@gmail.com)
+- LinkedIn: [elvisreyeshernandez](https://www.linkedin.com/in/elvisreyeshernandez)
+- Email: [elvis360@gmail.com](mailto:elvis360@gmail.com)
